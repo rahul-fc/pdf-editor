@@ -7,4 +7,5 @@ This node script can do the following modifications-
 To run the code-
 
 npm install
+
 node index.js
